@@ -1,1 +1,1 @@
-gigmy_first_project
+gigmy_first_projectd
